@@ -1,7 +1,7 @@
 # jaudiotagger
 Fake Repository in order to use JAudioTagger 2.2.6 with Gradle and Maven
 
-Use it with Maven , Gradle etc via https://jitpack.io/private#goxr3plus/jaudiotagger/V2.2.6
+Use it with Maven , Gradle etc via https://jitpack.io/#goxr3plus/jaudiotagger
 
 Example with Maven :
 
