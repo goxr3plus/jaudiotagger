@@ -1,7 +1,7 @@
 # jaudiotagger
 Fake Repository in order to use JAudioTagger 2.2.6 with Gradle and Maven
 
-[![Latest Version](https://img.shields.io/github/release/goxr3plus/jaudiotaggerr.svg?style=flat-square)](https://github.com/goxr3plus/jaudiotagger/releases)
+[![Latest Version](https://img.shields.io/github/release/goxr3plus/jaudiotagger.svg?style=flat-square)](https://github.com/goxr3plus/jaudiotagger/releases)
 [![HitCount](http://hits.dwyl.io/goxr3plus/jaudiotagger.svg)](http://hits.dwyl.io/goxr3plus/jaudiotagger)
 
 ### Step 1. Add the JitPack repository to your build file
